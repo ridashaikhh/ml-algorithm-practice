@@ -1,4 +1,4 @@
-# Machine Learning Algorithms Prctice
+# Machine Learning Algorithms
 
 ## Description
 This repository contains my hands-on practice with various Machine Learning algorithms using Python. I used the built-in Iris dataset from Seaborn as a testing ground to understand how different models work. The project covers the full ML workflow: data exploration, preprocessing, model training, evaluation, and visualization.
